@@ -8,3 +8,4 @@ config.log
 /kernel/System
 .gdbinit
 /build*.conf
+server/ata/ATAController.cpp
