@@ -15,7 +15,6 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-//test
 #include <DeviceServer.h>
 #include "ATAController.h"
 #include <Types.h>
